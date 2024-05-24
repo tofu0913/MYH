@@ -56,7 +56,7 @@ Dangers = {
 }
 
 local function myhlog(str)
-    windower.add_to_chat(262, str)
+    windower.add_to_chat(258, str)
 end
 
 windower.register_event('action', function(act)
